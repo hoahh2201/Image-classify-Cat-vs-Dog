@@ -15,6 +15,7 @@ Contact:  <tu.hanh.nguyen@outlook.com>
 ## :a: Brief Information
 
 ![](https://i.imgur.com/fgoQ6dz.png)
+
 Source: https://www.kaggle.com/c/dogs-vs-cats
 
 The Challenge is to classify dog or cat images. Our team do it with L-layer neural network in Python, then compare it with the result from sklearn library to understand the model.
